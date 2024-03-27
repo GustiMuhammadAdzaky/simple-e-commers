@@ -1,0 +1,7 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Midtrans\\": "vendor/midtrans/midtrans-php/src/Midtrans"
+    }
+  }
+}
